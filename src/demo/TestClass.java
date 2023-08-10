@@ -1,10 +1,9 @@
 package demo;
 
-public class TestClass {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+public class Testclass {
+	public static void main(String[]args) {
+		System.out.println("Hello World");
 	}
+	
 
 }
